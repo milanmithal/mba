@@ -1,3 +1,3 @@
 <?php 
-echo "First GIT HUB1";
+echo "First GIT HUB1 Commit";
 ?>
